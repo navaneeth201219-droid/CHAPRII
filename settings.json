@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "CHAPRII",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Chapri",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "MineWorldSMP-YmsM.aternos.me",
+    "port": 55601,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "Chaprii"
     },
     "anti-afk": {
       "enabled": true,
